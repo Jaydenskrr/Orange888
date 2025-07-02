@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-    cout<<"Hello Sup"<<endl;
+    cout<<"Hello gay"<<endl;
 }
